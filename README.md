@@ -1,3 +1,5 @@
+Inspirado em: https://github.com/AliceWonderland/hacktoberfest
+
 # Contribuindo no GitHub
 
 Crie um Fork do repositório: 
